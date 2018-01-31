@@ -1,0 +1,33 @@
+{
+  "name": "express-resolve-path",
+  "version": "0.1.0",
+  "description": "Rewrite the URL of the request URL correctly.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foundy/express-resolve-path.git"
+  },
+  "keywords": [
+    "express",
+    "middleware",
+    "resolve",
+    "path",
+    "resolve-path",
+    "path",
+    "rewrite"
+  ],
+  "author": "foundy <foundy@foundy.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/foundy/express-resolve-path/issues"
+  },
+  "homepage": "https://github.com/foundy/express-resolve-path#readme",
+  "devDependencies": {
+    "express": "^4.16.2",
+    "mocha": "^5.0.0",
+    "supertest": "^3.0.0"
+  }
+}
